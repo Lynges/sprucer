@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "newwp": "node wpmaker.js"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "triangulate-image": "^0.5.5"
+  }
+}
